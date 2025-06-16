@@ -1,3 +1,18 @@
+# [0.4.0](https://github.com/erichm1/genaxis/compare/v0.3.0...v0.4.0) (2025-06-16)
+
+
+### Bug Fixes
+
+* build version for networkk ([014ab86](https://github.com/erichm1/genaxis/commit/014ab86cb1361ce73239113babdbc802dea5bc48))
+* build version for numpy ([601a751](https://github.com/erichm1/genaxis/commit/601a751a6a8d598e667b71667cad428b49807967))
+
+
+### Features
+
+* autodocumentation ([f4762e7](https://github.com/erichm1/genaxis/commit/f4762e707f04921b6a76bd69083ff120458a93e6))
+
+
+
 # [0.3.0](https://github.com/erichm1/genaxis/compare/v0.2.0...v0.3.0) (2025-06-16)
 
 
@@ -32,15 +47,6 @@
 ### Bug Fixes
 
 * name file on header .yml ([e178445](https://github.com/erichm1/genaxis/commit/e178445e67ecf3760187c42eb021e70efa56baf5))
-
-
-
-# [0.1.0](https://github.com/erichm1/genaxis/compare/b1dbcc59a25c97565849a51585e668e7a52195e0...v0.1.0) (2025-06-16)
-
-
-### Bug Fixes
-
-* django.yml ([b1dbcc5](https://github.com/erichm1/genaxis/commit/b1dbcc59a25c97565849a51585e668e7a52195e0))
 
 
 
