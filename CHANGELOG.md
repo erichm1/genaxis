@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/erichm1/genaxis/compare/v0.1.2...v0.2.0) (2025-06-16)
+
+
+### Features
+
+* crispr asset created ([6ba0fc5](https://github.com/erichm1/genaxis/commit/6ba0fc560a6af936311a9994a14d73e8c5917555))
+
+
+
 ## [0.1.2](https://github.com/erichm1/genaxis/compare/v0.1.1...v0.1.2) (2025-06-16)
 
 
