@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+local_settings.py
+
+# SQLite
+# Uncomment if you want to ignore local DB files
+.sqlite3
+.sqlite3-journal
+
+# Node modules
+node_modules/
+
+# Media files
+/media/
+
+# Pillow / PyCharm / other IDEs
+*.iml
+*.pydevproject
+*.pyclass
+*.pyw
+*.pyz
+*.pyzw
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.VSCodeCounter/
+*/.VSCodeCounter/
+
+# Python virtual environments (root only)
+env/
+venv/
+.env/
+.venv/
+
+# Celery
+celerybeat-schedule
+
+# Custom scripts or docs
+scripts/
+commands.md
+
