@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/erichm1/genaxis/compare/v0.4.0...v0.4.1) (2025-06-16)
+
+
+### Bug Fixes
+
+* README and badge ([3f44029](https://github.com/erichm1/genaxis/commit/3f440299f2f027883627b2998eaaaa9d474dbadb))
+
+
+
 # [0.4.0](https://github.com/erichm1/genaxis/compare/v0.3.0...v0.4.0) (2025-06-16)
 
 
@@ -38,15 +47,6 @@
 ### Bug Fixes
 
 * rename file to app ([f78227b](https://github.com/erichm1/genaxis/commit/f78227b5f522e24081507fa89e8180e233f1c9ef))
-
-
-
-## [0.1.1](https://github.com/erichm1/genaxis/compare/v0.1.0...v0.1.1) (2025-06-16)
-
-
-### Bug Fixes
-
-* name file on header .yml ([e178445](https://github.com/erichm1/genaxis/commit/e178445e67ecf3760187c42eb021e70efa56baf5))
 
 
 
