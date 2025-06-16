@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/erichm1/genaxis/compare/v0.1.1...v0.1.2) (2025-06-16)
+
+
+### Bug Fixes
+
+* rename file to app ([f78227b](https://github.com/erichm1/genaxis/commit/f78227b5f522e24081507fa89e8180e233f1c9ef))
+
+
+
 ## [0.1.1](https://github.com/erichm1/genaxis/compare/v0.1.0...v0.1.1) (2025-06-16)
 
 
